@@ -1,0 +1,11 @@
+.black{
+background-color:#eee;
+color: black 
+}
+.btn{
+    padding: 20px;
+    color: white;
+    background-color: brown;
+    display: block;
+    margin: 3px;
+}
