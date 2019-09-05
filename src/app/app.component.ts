@@ -19,7 +19,7 @@ export class AppComponent {
  constructor(private postService:PostService){
     this.title = "Jq APP";
     this.email = "jq@tetest.com";
-    this.website ="www.google.com";
+    this.website ="http://www.google.com";
     this.showHobbies = false;
     this.testArray = ['hobby', 'cosa','test'];
 
